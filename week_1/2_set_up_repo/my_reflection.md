@@ -32,3 +32,4 @@ Not really, as I already had a repository set up for Github Pages. I do think it
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
 I did not need to look for extra resources on this step.
+

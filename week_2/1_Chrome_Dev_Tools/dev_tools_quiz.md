@@ -1,5 +1,7 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
+https://github.com/igorgaelzer/phase_0_unit_1/blob/master/week_2/1_Chrome_Dev_Tools/imgs/codeschool.png
+
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
 ##QUIZ
@@ -35,6 +37,9 @@ The background color is #0b0f11.
   * Roll over the navigation links.  When you hover over them, they dissapear.  Let's change the hover color to black instead.
   * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
   * Upload your own image to the imgs directory in the `1_Chrome_Dev_Tools` directory.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
+
+https://github.com/igorgaelzer/phase_0_unit_1/blob/master/week_2/1_Chrome_Dev_Tools/imgs/postmachina.png
+
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
 

@@ -59,7 +59,7 @@ Auto-merging week_2/1_Chrome_Dev_Tools/dev_tools_quiz.md
 CONFLICT (content): Merge conflict in week_2/1_Chrome_Dev_Tools/dev_tools_quiz.md
 Automatic merge failed; fix conflicts and then commit the result.
 
-I have yet to find the solution.
+I have yet to find the solution...
 
 ## Release 6: Reflection
 

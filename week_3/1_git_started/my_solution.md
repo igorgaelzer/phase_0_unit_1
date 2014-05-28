@@ -53,14 +53,6 @@ It's all in this link: http://igorgaelzer.github.io/unit1_projects/week2_git_wor
 2. Solution
 3. Cause (explain the error)
 
-I got the following error:
-
-Auto-merging week_2/1_Chrome_Dev_Tools/dev_tools_quiz.md
-CONFLICT (content): Merge conflict in week_2/1_Chrome_Dev_Tools/dev_tools_quiz.md
-Automatic merge failed; fix conflicts and then commit the result.
-
-I have yet to find the solution...
-
 ## Release 6: Reflection
 
 This was a little hard for me as I was pretty intimidated by using git and github on the Terminal, specially because I was used to doing things with the GitHub's Mac app with a visual interface. So one part of me was saying "This is complicated, I bet it`s not working right! Why to learn this if the visual interface works just fine? I wanna get to programming and making fun apps quickly!". And the other part was saying "It's boring but this will be helpfull, even if you do not use this later, you shouldn't be afraid of the command line or any part of the computer if you want to become a good programmer".

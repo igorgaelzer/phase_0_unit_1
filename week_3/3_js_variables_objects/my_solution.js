@@ -1,23 +1,24 @@
-// I paired [by myself, with:] on this challenge.
+// I paired with Gunnari Auvinen on this challenge.
 
 // __________________________________________
 // Write your code below.
 
+var secretNumber = 7;
+
+var password = 'just open the door';
+
+var allowedIn = false;
+
+var members = ['John','Gunnari', 'Igor', 'Mary', 'Ian', 'Jessica'];
+
+
+/* __________________________________________
+Reflection: Use the reflection guidelines to write a reflection here. 
 
 
 
+*/
 
-
-
-
-// __________________________________________
-// Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
 
 
 // __________________________________________

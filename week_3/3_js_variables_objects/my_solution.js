@@ -15,11 +15,28 @@ var members = ['John','Gunnari', 'Igor', 'Mary', 'Ian', 'Jessica'];
 /* __________________________________________
 Reflection: Use the reflection guidelines to write a reflection here. 
 
+What parts of your strategy worked? What problems did you face?
+  Everything worked fine. Once I undertood the syntax it was actually pretty easy.
 
+What questions did you have while coding? What resources did you find to help you answer them?
+  Mostly I was having problems understanding how the objects work in different situations, but Gunnari was really helpfull and guided me through all the steps.
+
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+  Mostly formatting and syntax. Once my eyes got used to it I could undestand it just fine.
+
+Did you learn any new skills or tricks?
+  Yes. I learned the JS and OOP basics.
+
+How confident are you with each of the Learning Competencies?
+  I feel like I understand it well but I have to apply my knowledge on real problems for it to be well fixed in my mind.
+
+Which parts of the challenge did you enjoy?
+  I enjoyed getting my codes passed the tests.
+
+Which parts of the challenge did you find tedious?
+  The reading material was pretty intense and I was reading about lots of solutions to problems I did not have and did not undestand. Sometimes I don't like to prepare myself too much and go too much into future problems without at least having a supperficial feel of what they are.
 
 */
-
-
 
 // __________________________________________
 // Test Code:  Do not alter code below this line.

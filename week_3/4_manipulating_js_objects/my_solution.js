@@ -7,16 +7,20 @@ var terah = {
   name: "Terah",
   age: 32,
   height: 66,
-  weight: 130,
+  weight: 125,
   hairColor: "brown",
-  eyeColor: "brown"
-}
+  eyeColor: "brown",
+  spouse: adam,
+};
 
 
 
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name: "Adam",
+};
 
 
 

@@ -10,34 +10,54 @@ var terah = {
   weight: 125,
   hairColor: "brown",
   eyeColor: "brown",
-  spouse: adam,
-};
+}
 
 
 
 // __________________________________________
 // Write your code below.
 
-var adam = {
-  name: "Adam",
-};
-
-
-
-
-
+var adam = {};
+adam.name = "Adam";
+terah.spouse = adam;
+terah.weight = 125;
+// terah.eyeColor = undefined;
+delete terah.eyeColor;
+terah.spouse.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children;
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+/*
+
+What parts of your strategy worked? What problems did you face?
+I'm having a hard time understanding exactly what I'm supposed to do. It took me a long time to realize that I wasn`t supposed to change tarah's object to pass the test, which was a little frustrating. More precise instructions would be welcomed.
 
 
+What questions did you have while coding? What resources did you find to help you answer them?
+Am I supposed to delet tarah's eyeColor completely or just set its value to undefined? I just went ahead and deleted it.
+
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+Not having troubles with code logic.
+
+Did you learn any new skills or tricks?
+I learned how to delete a property of an object.
+
+How confident are you with each of the Learning Competencies?
+8 out of 10.
+
+Which parts of the challenge did you enjoy?
+...
+
+Which parts of the challenge did you find tedious?
+Not knowing what to do for a long time to pass the test.
+
+*/
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
